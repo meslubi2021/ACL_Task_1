@@ -19,6 +19,6 @@
   "homepage": "https://github.com/ahmedalaaseif/ACL_Tasks#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "mongoose": "^6.0.11"
+    "mongoose": "^8.8.3"
   }
 }
